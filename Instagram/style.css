@@ -1,0 +1,108 @@
+header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+  }
+  main{
+      background-color: #fafafaff;
+  }
+.topnav{
+    overflow: hidden;
+    padding-left: 25%;
+    padding-bottom: 5%;
+}
+.topnav input[type=text] 
+  {
+    border-radius: 7px;
+    border: 2px solid gray;
+    font-size: 20px;
+    float: left;
+    text-align:left;
+    background-color: white;
+    position:absolute;
+  }
+#headerImage1{
+      float: right;
+      padding-right: 10%;
+  }
+#headerImage2{
+    float: left;
+    padding-left: 10%;
+}
+#image
+{
+    height: 60px;
+}
+table, th, td{
+    padding: 0%;
+    margin: 0%;
+}
+table{
+    width: 100%;
+}
+#td1{
+    width: 33%;
+}
+#image3{
+    max-height: 35vh;
+    padding-left: 16vw;
+}
+.Posts{
+    width: 20vw;
+
+}
+#post1{
+    padding-left: 17vw;
+}
+#post2{
+    padding-left: 3vw;
+}
+#post3{
+    padding-left: 3vw;
+}
+#post4{
+    padding-left: 17vw;
+    padding-top: 2vw;
+}
+#post5{
+    padding-left: 3vw;
+    padding-top: 2vw;
+}
+#post6{
+    padding-left: 3vw;
+    padding-top: 2vw;
+}
+#button1{
+    border-radius: 40px;
+    margin-left:40vw;
+    margin-top: 6vh;
+    border:none;
+    background-color:deepskyblue;
+    color:white;
+    text-align: center;
+    font-size: 150%;
+    height:5vh;
+    width:20vw;
+    cursor: pointer;
+}
+nav{
+    margin-top: 3vh;
+    margin-left: 18vw;
+}
+span{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: gray;
+    float:right;
+    margin-right:0.5vw;
+    margin-top:-1.2vh;
+    text-decoration: none;
+}
+a{
+    color:grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:none;
+    padding-left: 20px;
+}
+footer{
+    background-color: #fafafaff;
+}
